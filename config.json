@@ -1,0 +1,21 @@
+{
+    "email": "truxtwitch123@gmail.com",
+    "password": "Luna2020",
+    "cid": "cid_001_athena_commando_f_default",
+    "bid": "BID_004_BlackKnight", 
+    "pid": "Bolton_Pickaxe",
+    "eid": "EID_Floss",
+    "banner": "otherbanner28",
+    "banner_colour": "defaultcolor22",
+    "level": "99999999",
+    "bp_tier": 99999999,
+    "status": "Code TRUXYT",
+    "platform": "PSN",
+    "friendaccept": "True",
+    "joinoninvite": "True",
+    "AdminPassword": "2504",
+    "FullAccess": [
+    ],
+    "BlockList": [
+    ]
+}
